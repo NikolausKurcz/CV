@@ -80,7 +80,7 @@ skills:
       - name: Pizza
         description: ''
         percent: 100
-        icon: pizza
+        icon: pizza-slice
         icon_pack: fas
       - name: Photography
         description: ''
