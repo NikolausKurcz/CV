@@ -84,7 +84,7 @@ skills:
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 0
+        percent: 1
         icon: camera-retro
         icon_pack: fas
 
