@@ -61,7 +61,7 @@ skills:
       - name: Paragliding
         description: ''
         percent: 75
-        icon: chart-line
+        icon: parachute-box
         icon_pack: fas
       - name: FSI
         description: ''
@@ -80,7 +80,7 @@ skills:
       - name: Pizza
         description: ''
         percent: 100
-        icon: pizza
+        icon: pizza-slice
         icon_pack: fas
       - name: Photography
         description: ''
