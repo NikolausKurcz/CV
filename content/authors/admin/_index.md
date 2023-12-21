@@ -3,7 +3,7 @@
 title: Nikolaus Kurcz 
 
 # Name pronunciation (optional)
-name_pronunciation: Nikolaus Kurcz 
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Nikolaus
