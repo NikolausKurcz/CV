@@ -61,7 +61,7 @@ skills:
       - name: Paragliding
         description: ''
         percent: 75
-        icon: chart-line
+        icon: parachute-box
         icon_pack: fas
       - name: FSI
         description: ''
