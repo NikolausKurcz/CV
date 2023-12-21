@@ -155,7 +155,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
+  - block: publications
     content:
       title: Publications
       text: 
