@@ -185,8 +185,8 @@ sections:
         country_code: AT
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '47.236519795'
-        longitude: '11.40242'  
+        latitude: '47.236'
+        longitude: '11.402'  
       contact_links:
         - icon: skype
           icon_pack: fab
