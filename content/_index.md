@@ -34,7 +34,7 @@ sections:
         - title: Self employed Consultant
           company: Paracons e.U.
           company_url: ''
-          company_logo: Paracons
+          company_logo: NOVA
           location: Austria
           date_start: '2022-05-01'
           date_end: ''
@@ -42,7 +42,7 @@ sections:
         - title: CEO
           company: Mecsek-Ballon Kft
           company_url: ''
-          company_logo: MCB
+          company_logo: NOVA
           location: Hungary
           date_start: '2019-04-01'
           date_end: '2022-04-15'
