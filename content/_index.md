@@ -67,8 +67,8 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Austria
-          date_start: '2019-04-01'
-          date_end: '2022-04-01'
+          date_start: '2022-05-01'
+          date_end: ''
           description: Technical Textiles Stuff
         - title: CEO
           company: Mecsek-Ballon Kft
@@ -76,7 +76,7 @@ sections:
           company_logo: org-gc
           location: Hungary
           date_start: '2019-04-01'
-          date_end: '2022-04-01'
+          date_end: '2022-04-15'
           description: |2-
               Responsibilities include:
 
@@ -93,7 +93,7 @@ sections:
           company_logo: org-x
           location: California
           date_start: '2014-04-01'
-          date_end: '2023-04-31'
+          date_end: '2023-04-30'
           description: |2-
               Responsibilities include:
 
