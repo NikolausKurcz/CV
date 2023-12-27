@@ -42,7 +42,7 @@ sections:
         - title: CEO
           company: Mecsek-Ballon Kft
           company_url: ''
-          company_logo: NOVA
+          company_logo: MCB.png
           location: Hungary
           date_start: '2019-04-01'
           date_end: '2022-04-15'
