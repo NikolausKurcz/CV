@@ -23,7 +23,7 @@ Theories of Change Management, and Business Process Re-engineering form a genera
 Parallel to the theoretical examination the restructuring is done as a work project. After moving the fulfilment activity, automatically logged timestamps of the shipments are used to calculate performance indicators such as Handling Time and Late Shipment rate. These quantitative results are compared to the chosen references and a Key Performance Indicator is defined. This shows that the shipment activity was success-fully transferred from Austria to Hungary. In the future, continuous improvement measures must be implemented to improve the results further.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ""
 
 tags:
 - Source Themes
