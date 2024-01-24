@@ -157,11 +157,6 @@ sections:
       coordinates:
         latitude: '47.236'
         longitude: '11.402'  
-      contact_links:
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
       # Automatically link email and phone or display as text?
       autolink: true
      
