@@ -1,5 +1,5 @@
 ---
-title: "Plastic and elastic elongation behavior of selected Paragliding lines"
+title: "Plastic and elastic elongation behavior of selected Paragliding lines (German)"
 authors:
 - admin
 date: "2013-09-17T00:00:00Z"
