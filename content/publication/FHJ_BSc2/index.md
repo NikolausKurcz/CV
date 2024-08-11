@@ -1,8 +1,8 @@
 ---
-title: "Development of a parachute to fulfill the EN12491 standard"
+title: "Plastic and elastic elongation behavior of selected Paragliding lines"
 authors:
 - admin
-date: "2016-06-29T00:00:00Z"
+date: "2013-09-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,17 +14,23 @@ publishDate: "2024-01-24T00:00:00Z"
 publication_types: ["thesis"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Master's Degree in Aviation (Aeronautical Engineering) at FH JOANNEUM"
+publication: "Bachelor's Degree in Aviation at FH JOANNEUM"
 publication_short: ""
 
-abstract: Most paraglider pilots carry a reserve parachute which is deployed in the case of
-loss of control structural failure of the glider. The formal requirements, which
-these parachutes have to fulfill, are stipulated in the EN12491:2001/2015 standard.
-For the development of a rescue parachute for paraglider pilots, the standard as
-well as market demand and manufacturability are taken into account. To achieve
-compliance the norm, manufacturing methods are evaluated and CFD simulation
-results are compared to practical tests. The result is an emergency parachute with
-a maximum suspended weight of 115kg, which is ready for certification.
+abstract: The canopy of a paraglider is suspended by a lot of suspension lines. To minimize
+elongation, the latest available high tech fibers are used, commonly ultra high modulus
+Polyethylene and Aramid. These materials have a very good creep and elastic stretch
+resistance, but with the demand of more efficient wings the tolerances get smaller.
+Therefore the exact characteristics of the line types start to gain significance in paraglider
+development and manufacturing. On the one hand the elastic elongation has to be
+considered, on the other the creep, which occurs over time in the highly loaded lines,
+should be taken into account. As paragliders are exposed to all kinds of environmental
+in
+uences during use, these factors have to be considered as well. Lines with low load tend
+to shrink over time when exposed to the environmental factors. To get an understanding
+of the line characteristics, several tests were conducted. As a first step only elongation is
+taken into account.
+vi
 
 # Summary. An optional shortened abstract.
 summary: ""
