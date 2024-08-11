@@ -94,6 +94,15 @@ sections:
           organization_url: https://dhv.de
           title: Paragliding Instructor Certificate 
           url: ''
+        - #certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2024-04-24'
+          description: ''
+          icon: wko
+          organization: WKO
+          organization_url: https://wko.at
+          title: Competency Examination for Engineering Offices (Consulting Engineers), Specialization in Aeronautical Engineering
+          url: ''
        
     design:
       columns: '2'
