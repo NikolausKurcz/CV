@@ -17,7 +17,7 @@ publication_types: ["thesis"]
 publication: "Bachelor's Degree in Aviation at FH JOANNEUM"
 publication_short: ""
 
-abstract: The canopy of a paraglider is suspended by a lot of suspension lines. To minimize
+abstract: "The canopy of a paraglider is suspended by a lot of suspension lines. To minimize
 elongation, the latest available high tech fibers are used, commonly ultra high modulus
 Polyethylene and Aramid. These materials have a very good creep and elastic stretch
 resistance, but with the demand of more efficient wings the tolerances get smaller.
@@ -25,12 +25,11 @@ Therefore the exact characteristics of the line types start to gain significance
 development and manufacturing. On the one hand the elastic elongation has to be
 considered, on the other the creep, which occurs over time in the highly loaded lines,
 should be taken into account. As paragliders are exposed to all kinds of environmental
-in
-uences during use, these factors have to be considered as well. Lines with low load tend
+influences during use, these factors have to be considered as well. Lines with low load tend
 to shrink over time when exposed to the environmental factors. To get an understanding
 of the line characteristics, several tests were conducted. As a first step only elongation is
-taken into account.
-vi
+taken into account."
+
 
 # Summary. An optional shortened abstract.
 summary: ""
