@@ -31,7 +31,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Self employed Consultant
+        - title: Projects at Paracons
           company: Paracons e.U.
           company_url: ''
           company_logo: Paracons
