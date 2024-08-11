@@ -17,14 +17,14 @@ publication_types: ["thesis"]
 publication: "Master's Degree in Aviation (Aeronautical Engineering) at FH JOANNEUM"
 publication_short: ""
 
-abstract: Most paraglider pilots carry a reserve parachute which is deployed in the case of
+abstract: "Most paraglider pilots carry a reserve parachute which is deployed in the case of
 loss of control structural failure of the glider. The formal requirements, which
 these parachutes have to fulfill, are stipulated in the EN12491:2001/2015 standard.
 For the development of a rescue parachute for paraglider pilots, the standard as
 well as market demand and manufacturability are taken into account. To achieve
 compliance the norm, manufacturing methods are evaluated and CFD simulation
 results are compared to practical tests. The result is an emergency parachute with
-a maximum suspended weight of 115kg, which is ready for certification.
+a maximum suspended weight of 115kg, which is ready for certification."
 
 # Summary. An optional shortened abstract.
 summary: ""
