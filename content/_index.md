@@ -89,7 +89,7 @@ sections:
           date_end: ''
           date_start: '2022-04-25'
           description: ''
-          icon: dhv.png
+          icon: dhv
           organization: DHV
           organization_url: https://dhv.de
           title: Paragliding Instructor Certificate 
