@@ -101,7 +101,7 @@ sections:
           icon: wko
           organization: WKO
           organization_url: https://wko.at
-          title: Competency Examination for Engineering Offices (Consulting Engineers), Specialization in Aeronautical Engineering
+          title: "Competency Examination for Engineering Offices (Consulting Engineers) Specialization: Aeronautical Engineering"
           url: ''
        
     design:
