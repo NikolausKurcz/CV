@@ -33,7 +33,7 @@ analytical formulae the drag force of the parachute was calculated.
 The main aim was to develop and build a system, which increases the operation
 safety for UAV of approximately 2kg takeoff weight. To validate this goal, in the final
 project phase, a successful deployment with a quadrocopter was carried out."
-vi
+
 
 # Summary. An optional shortened abstract.
 summary: ""
