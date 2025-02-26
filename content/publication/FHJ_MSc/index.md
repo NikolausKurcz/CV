@@ -11,7 +11,7 @@ publishDate: "2024-01-24T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["thesis"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Master's Degree in Aviation (Aeronautical Engineering) at FH JOANNEUM"
