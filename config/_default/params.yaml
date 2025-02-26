@@ -100,7 +100,7 @@ features:
     api_key: ''
     zoom: 7
 
-- name: publications
+name: publications
     label: Publications
     label_singular: Publication
     folder: 'content/publication'
